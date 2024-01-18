@@ -1,0 +1,8 @@
+# macOS filesystem overhead
+.DS_Store
+
+# Node.js devDependencies
+node_modules
+package-lock.json
+package.json
+swa-cli.config.json
